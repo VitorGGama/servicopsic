@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #8ca5e9;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+header h2 {
+  text-align: center;
+}
+
+nav li a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  background-color: white;
+}
+
+section img {
+  max-width: 40%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+section p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-text {
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.image-text-small {
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.image-text-small img {
+  height: 50px;
+  width: auto;
+  margin-right: 10px;
+}
+
+footer {
+  text-align: center;
+}
